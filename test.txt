@@ -1,0 +1,8 @@
+cd
+cd Desktop
+ mkdir Trial2
+cd Trial2
+touch file.txt
+ vim file.txt
+git init
+git remote add origin https://github.com/username/Trial2.git
